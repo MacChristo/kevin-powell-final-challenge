@@ -168,7 +168,7 @@ button:focus, button:hover {
     line-height: 1.2;
 }
 .intro-heading h1 {
-    margin: 0 0 1.5 addem 0;
+    margin: 0 0 1.5em 0;
 }
 .intro-text {
     font-family: 'Montserrat', sans-serif;
